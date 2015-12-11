@@ -1,5 +1,5 @@
 # eduzi on raill: "working with rails"
 
 Web interface for the eduzi project
-[*Traffic Mornitoring Project*](http://www.railstutorial.org/)
+[*Traffic Mornitoring Project*](http://www.eduzii.com/)
 by [Jejelowo B. Festus](http://www.festusjejelowo.com/).
